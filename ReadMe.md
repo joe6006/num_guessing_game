@@ -1,0 +1,1 @@
+this is a number guessing game, just run the code and answer the questions in the terminal to get started. this uses a Mersenne Twister, a pseudorandom number generator. im aware its not as secure but it works good for fast game projects or things that dont need to be encrypted like passwords. 
